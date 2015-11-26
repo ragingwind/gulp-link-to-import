@@ -1,6 +1,6 @@
 {
   "name": "gulp-link-to-import",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Gulp plugin for link-to-import",
   "license": "MIT",
   "author": {
