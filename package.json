@@ -1,0 +1,35 @@
+{
+  "name": "gulp-link-to-import",
+  "version": "0.0.0",
+  "description": "Gulp plugin for link-to-import",
+  "license": "MIT",
+  "author": {
+    "name": "ragingwind",
+    "email": "ragingwind@gmail.com"
+  },
+  "repository": "ragingwind/gulp-link-to-import",
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "roboto",
+    "import",
+    "polymer"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "link-to-import": "^0.1.2",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp-util": "^3.0.6",
+    "mocha": "*"
+  }
+}
